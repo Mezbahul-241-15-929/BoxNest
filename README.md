@@ -2,7 +2,7 @@
 
 BookNest is a modern, responsive book management platform where readers discover books, add collections, track reading activity, and manage personal libraries. Built with React and Firebase, BookNest focuses on a clean UX, secure authentication, and responsive design for mobile, tablet, and desktop.
 
-Live site: boxnest.netlify.app
+Live site: [boxnest.netlify.app](https://boxnest.netlify.app)
 
 ---
 
