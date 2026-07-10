@@ -5,7 +5,7 @@ const Carrosol = () => {
         <div className="carousel w-full rounded">
             <div id="slide1" className="carousel-item relative w-full">
                 <img
-                    src="https://www.tvhut.com.bd/image/cache/catalog/AAA/tv-hut-services-banner-1280x381.jpg.webp"
+                    src="https://img.magnific.com/free-vector/subscribe-our-newsletter-cartoon-banner-email-news-subscriptio_107791-3079.jpg?semt=ais_hybrid&w=740&q=80"
                     className="w-full max-h-[350px] object-cover md:ojecct-fit" />
                 <div className="absolute left-5 right-5 top-1/2 flex -translate-y-1/2 transform justify-between">
                     <a href="#slide4" className="btn btn-circle">❮</a>
